@@ -48,8 +48,10 @@ for i in range(n):
 ```
 
 ## Output:
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-16%2016-29-57.png![image](https://user-images.githubusercontent.com/119395610/212662890-c4aa9514-5114-4d10-a95a-c20c3964efdf.png)
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-16%2016-30-19.png![image](https://user-images.githubusercontent.com/119395610/212662981-71b21b3c-9c44-4c0d-80d5-3921e96d7549.png)
+![WhatsApp Image 2023-01-22 at 17 18 03](https://user-images.githubusercontent.com/119395610/213914209-72dc41f0-ea39-4bf9-b59f-c5aa7f178397.jpg)
+![WhatsApp Image 2023-01-22 at 17 18 17](https://user-images.githubusercontent.com/119395610/213914214-19001dc0-e7d1-42eb-beff-31629f3210cd.jpg)
+![WhatsApp Image 2023-01-22 at 17 18 28](https://user-images.githubusercontent.com/119395610/213914229-251263c4-6745-40cf-b105-35edaed8b7b8.jpg)
+
 
 
 
